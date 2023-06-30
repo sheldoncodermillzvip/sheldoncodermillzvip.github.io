@@ -9,7 +9,10 @@ body{
 footer{
     color: white;
     font-size: small;
+}
 
+footer a:hover {
+    color:gray;
 }
 
 .navbar-brand img{
@@ -21,7 +24,7 @@ footer{
 }
 
 .applyhere{
-    color: green;
+    color: gray;
 }
  
 
