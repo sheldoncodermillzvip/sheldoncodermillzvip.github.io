@@ -35,37 +35,10 @@
 
   <body>
 
-
-      <div class="container" style="text-align: center;">
-        <a href="#" target="_blank">
+      <div class="center">
+        <a href="#">
         <img width="100%" height="100%" src="IMG_2993.png" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
         </a>
     </div>
-
-
-    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
-    -->
-
-    <!-- JAVASCRIPT
-    ================================================== -->
-    <!-- Global JS -->
-    <script src="assets/libs/jquery/dist/jquery.min.js"></script>
-
-    <!-- Plugins JS -->
-    <script src="assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/libs/flickity/dist/flickity.pkgd.min.js"></script>
-    <script src="assets/libs/flickity-fade/flickity-fade.js"></script>
-    <script src="assets/libs/jquery-parallax.js/parallax.min.js"></script>
-    <script src="assets/libs/waypoints/lib/jquery.waypoints.min.js"></script>
-    <script src="assets/libs/waypoints/lib/shortcuts/inview.min.js"></script>
-    <script src="assets/libs/fullpage.js/vendors/scrolloverflow.min.js"></script>
-    <script src="assets/libs/fullpage.js/dist/fullpage.min.js"></script>
-    <script src="assets/libs/highlightjs/highlight.pack.min.js"></script>
-
-    <!-- Theme JS -->
-    <script src="assets/js/theme.min.js"></script>
   </body>
 </html>
