@@ -1,0 +1,39 @@
+nav {
+  width: 100%;
+  background-color: #343d46;
+  text-align: center;
+  padding-left: 50%;
+  padding-right: 50%;
+}
+
+.navbar img{
+  display: inline-block;
+  height: 60px;
+  position: center;
+  margin: auto;
+}
+
+header {
+  margin: auto;
+  width: auto;
+  padding-top: 20px;
+  text-align: center;
+}
+
+
+
+#mmm {
+  background-color: #4f5b66;
+  height: 100px;
+}
+#mmmm {
+  display: inline-block;
+  
+  position: center;
+  margin: auto;
+}
+
+
+th, td {
+  padding: 4px;
+}
