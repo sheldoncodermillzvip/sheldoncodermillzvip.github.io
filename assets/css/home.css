@@ -28,23 +28,6 @@ footer a:hover {
 }
  
 
-.applyhere {
-    a:link {
+.applyhere a:active {
   color: #343d46;
-}
-
-/* visited link */
-a:visited {
-  color: #343d46;
-}
-
-/* mouse over link */
-a:hover {
-  color: #343d46;
-}
-
-/* selected link */
-a:active {
-  color: #343d46;
-}
 }
