@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/ico/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/ico/favicon-16x16.png">
+    <link rel="manifest" href="assets/ico/site.webmanifest">
+    <link rel="mask-icon" href="assets/ico/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="assets/ico/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+    <script src="https://kit.fontawesome.com/b22a6013dc.js" crossorigin="anonymous"></script>
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/libs/flickity/dist/flickity.min.css">
+    <link rel="stylesheet" href="assets/libs/flickity-fade/flickity-fade.css">
+    <link rel="stylesheet" href="assets/libs/fullpage.js/dist/fullpage.min.css">
+    <link rel="stylesheet" href="assets/libs/highlightjs/styles/codepen-embed.css">
+    <link rel="stylesheet" href="assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="assets/libs/incline-icons/style.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/home.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+
+    <title> InTown VIP </title>
+  </head>
+
+  <body>
+
+
+    
+
+    <!-- NAVBAR ================================================= -->
+    <nav class="navbar navbar-expand-xl navbar-dark" id="mmm">
+      
+      <div class="container">
+          
+        <!-- Brand -->
+        <a class="navbar-brand" href="https://intowntechnology.com">
+          <img src="assets/img/newintown.PNG" class="img-fluid text-center" id="mmmm">
+        </a>
+        <!-- Brand -->
+        <a class="navbar-brand" href="index.html">
+          <img src="assets/img/intowncity.png" class="img-fluid text-center" id="mmmm">
+        </a>
+
+      </div> <!-- / .container -->
+
+    </nav>
+
+
+    <br>
+    <br>
+      <main>
+      
+
+        
+    </main>
+
+
+
+      <div class="mastfoot mt-auto" style="text-align: center;">
+
+        <div class="inner">        
+        <img class="bd-placeholder-img" width="50%" height="50%" src="assets/img/intownvip.png" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+
+
+      <!-- Content -->
+      <div class="container">
+        
+        <div class="row">
+
+          
+          <div class="col-md-4">
+
+            <!-- Item -->
+            <a href="https://shop.intown.vip" class="card border-0 mb-3 mb-md-0">
+
+              <!-- Image -->
+              <div class="card-img-top">
+                <img src="assets/img/shopintown.PNG" alt="SHOP InTown" class="img-fluid">
+              </div>
+
+            </a> <!-- / .card -->
+
+          </div>
+
+          <div class="col-md-4">
+
+            <!-- Item -->
+            <a href="https://intownvip.eventbrite.com" class="card border-0 mb-3 mb-md-0" target="_blank">
+
+              <!-- Image -->
+              <div class="card-img-top">
+                <img src="assets/img/intownevents.PNG" alt="InTown Events" class="img-fluid">
+              </div>
+
+            </a> <!-- / .card -->
+
+          </div>
+
+          <div class="col-md-4">
+
+            <!-- Item -->
+            <a href="https://instagram.com/intownvip?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" class="card border-0 mb-3 mb-md-0" target="_blank">
+
+              <!-- Image -->
+              <div class="card-img-top">
+                <img src="assets/img/intownmedia.PNG" alt="InTown TV" class="img-fluid">
+              </div>
+
+            </a> <!-- / .card -->
+
+          </div>
+      
+      </div> <!-- / .container -->
+
+          <br>
+          <p> VIP ACCESS? <!-- Brand -->  <!-- Button --><a href="https://www.intowntechnology.com/onboarding.html" class="btn btn-outline-secondary" style=" color: black; text-color: black;" target="_blank">
+                Apply Here
+              </a>
+          </p>
+        </div>
+        <br>
+
+        <br>
+            <br>
+            <br>
+            <br>
+      </div>
+    </div>
+
+    <!-- FOOTER
+    ================================================== -->
+    <footer class="section bg-dark">
+
+      <!-- Triangles -->
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
+
+
+      <!-- NAVBAR
+      ================================================= -->
+      <nav class="navbar navbar-expand-xl navbar-dark  navbar-togglable  fixed-bottom">
+        <div class="container">
+          
+                  <!-- Brand -->
+        <a class="navbar-brand" href="mmm.html">
+          <img src="assets/img/mmmlogo.PNG" class="img-fluid">
+        </a>
+
+          <!-- Links -->
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item-divider">
+              <span class="nav-link">
+                <span></span>
+              </span>
+            </li>
+            <li class="nav-item">
+              <a href="mailto:customerservice@intown.vip" class="nav-link">
+                Contact Us
+              </a>
+            </li>
+          </ul>
+
+        </div> <!-- / .navbar-collapse -->
+
+        </div> <!-- / .container -->
+      </nav>
+
+    </footer>
+
+    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    -->
+
+    <!-- JAVASCRIPT
+    ================================================== -->
+    <!-- Global JS -->
+    <script src="assets/libs/jquery/dist/jquery.min.js"></script>
+
+    <!-- Plugins JS -->
+    <script src="assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/libs/flickity/dist/flickity.pkgd.min.js"></script>
+    <script src="assets/libs/flickity-fade/flickity-fade.js"></script>
+    <script src="assets/libs/jquery-parallax.js/parallax.min.js"></script>
+    <script src="assets/libs/waypoints/lib/jquery.waypoints.min.js"></script>
+    <script src="assets/libs/waypoints/lib/shortcuts/inview.min.js"></script>
+    <script src="assets/libs/fullpage.js/vendors/scrolloverflow.min.js"></script>
+    <script src="assets/libs/fullpage.js/dist/fullpage.min.js"></script>
+    <script src="assets/libs/highlightjs/highlight.pack.min.js"></script>
+
+    <!-- Theme JS -->
+    <script src="assets/js/theme.min.js"></script>
+  </body>
+</html>
